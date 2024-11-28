@@ -617,6 +617,7 @@ video {
         bottom: 90px;
         right: 0px;
         padding-right: 40px;
+        z-index: 100;
     }
     #page1 video {
         position: relative;
